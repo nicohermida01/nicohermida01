@@ -1,6 +1,6 @@
 ### Hi there a, I'm Nico 👋
 
-[![Linkedin](https://img.shields.io/badge/-nicohermida-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nico-hermida/)
+[![Linkedin](https://img.shields.io/badge/-NicoHermida-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nico-hermida/)
 [![Gmail](https://img.shields.io/badge/-hermida.nicolas101@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hermida.nicolas101@gmail.com)
 ![visitors](https://komarev.com/ghpvc/?username=nicohermida01&style=flat)
 
@@ -17,14 +17,14 @@ const myTechStack = {
 }
 ```
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div style='display:flex'>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=nicohermida01&show_icons=true&theme=tokyonight&hide_border=true"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicohermida01&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" />
 </a>
-
-<br> <br>
+</div>
 
 <!--
 **nicohermida01/nicohermida01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
