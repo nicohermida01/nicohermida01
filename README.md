@@ -1,6 +1,8 @@
 ### Hi there a, I'm Nico 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=nicohermida01&show_icons=true&hide_border=true">
+
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hermida.nicolas101@gmail.com)](mailto:hermida.nicolas101@gmail.com)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=nicohermida01)
 
 ## Tech stack
 
@@ -17,7 +19,7 @@ const myTechStack = {
 
 - [LinkedIn](https://www.linkedin.com/in/nico-hermida/)
 
-[![nicohermida's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicohermida01)](https://github.com/anuraghazra/github-readme-stats)
+[![nicohermida's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicohermida01&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **nicohermida01/nicohermida01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
