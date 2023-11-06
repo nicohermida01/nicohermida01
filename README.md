@@ -1,4 +1,4 @@
-### Hi there a, I'm Nico 👋
+### Hi there, I'm Nico 👋
 
 [![Linkedin](https://img.shields.io/badge/-NicoHermida-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nico-hermida/)
 [![Gmail](https://img.shields.io/badge/-hermida.nicolas101@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hermida.nicolas101@gmail.com)
@@ -16,6 +16,9 @@ const myTechStack = {
   design: [Figma, Illustrator, Photoshop]
 }
 ```
+
+<br /> 
+<br />
 
 ![nicohermida01's github stats](https://github-readme-stats.vercel.app/api?username=nicohermida01&show_icons=true&theme=tokyonight&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicohermida01&show_icons=true&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
