@@ -26,9 +26,7 @@ const myTechStack = {
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicohermida01&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
 
-[![nicohermida's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicohermida01&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicohermida01&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<br> <br>
 
 <!--
 **nicohermida01/nicohermida01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
