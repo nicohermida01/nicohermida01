@@ -1,10 +1,10 @@
 ### Hi there a, I'm Nico 👋
 
-## 🛠 Tech stack
+## Tech stack
 
 ```js
 const myTechStack = {
-  languages: [Python, Javascript, TypeScript, Java, Go, Kotlin]
+  languages: [Python, Javascript, TypeScript, Java, Go, Kotlin],
   web: [HTML, CSS, Node, React, Next, Nest, Express],
   database: [MongoDB, MySQL],
   devOps: [Git, GitHub Actions],
