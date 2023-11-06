@@ -17,7 +17,6 @@ const myTechStack = {
 }
 ```
 
-<br /> 
 <br />
 
 ![nicohermida01's github stats](https://github-readme-stats.vercel.app/api?username=nicohermida01&show_icons=true&theme=tokyonight&hide_border=true)
