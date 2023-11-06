@@ -1,5 +1,18 @@
 ### Hi there a, I'm Nico 👋
 
+## Tech stack
+
+```js
+const myTechStack = {
+  languages: [Python, Javascript, TypeScript, Java, Go, Kotlin]
+  web: [HTML, CSS, Node, React, Next, Nest, Express],
+  database: [MongoDB, MySQL],
+  devOps: [Git, GitHub Actions],
+  tools: [Visual Studio Code, Eclipse, Android Studio],
+  design: [Figma, Illustrator, Photoshop]
+}
+```
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
