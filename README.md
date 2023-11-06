@@ -1,5 +1,7 @@
 ### Hi there a, I'm Nico 👋
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=nicohermida01&show_icons=true&hide_border=true">
+
 ## Tech stack
 
 ```js
