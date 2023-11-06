@@ -1,7 +1,7 @@
 ### Hi there a, I'm Nico 👋
 
-[![Linkedin](https://img.shields.io/badge/-JoykishanSharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nico-hermida/)
-[![Gmail](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hermida.nicolas101@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-NicoHermida-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nico-hermida/)
+[![Gmail](https://img.shields.io/badge/-nicohermida01-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hermida.nicolas101@gmail.com)
 ![visitors](https://komarev.com/ghpvc/?username=nicohermida01&style=flat)
 
 ## Tech stack
