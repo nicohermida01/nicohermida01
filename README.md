@@ -23,7 +23,7 @@ const myTechStack = {
 <br />
 
 <a href="https://github.com/nicohermida01">
-  <img width="200px" src="https://github-readme-stats.vercel.app/api?username=nicohermida01&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=nicohermida01&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicohermida01&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" />
 </a>
 
