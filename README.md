@@ -4,8 +4,9 @@ Software Developer from Argentina 🇦🇷. <br />
 Junior Fullstack developer.
 
 [![Linkedin](https://img.shields.io/badge/-NicoHermida-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nico-hermida/)
-![Gmail](https://img.shields.io/badge/-hermida.nicolas101@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hermida.nicolas101@gmail.com)
-![visitors](https://komarev.com/ghpvc/?username=nicohermida01&style=flat)]
+[![Gmail](https://img.shields.io/badge/-hermida.nicolas101@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hermida.nicolas101@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-nicohermida.com-violet?logo=Google)](https://nicohermida.com/)
+![visitors](https://komarev.com/ghpvc/?username=nicohermida01&style=flat)
 
 ## Tech stack
 
