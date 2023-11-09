@@ -1,7 +1,7 @@
 ### Hi there 👋
-## I'm Nico Hermida, pursuing a Bachelor's degree in Systems at UNLP.
-## Software Developer from Argentina 🇦🇷.
-## Junior Fullstack developer.
+I'm Nico Hermida, pursuing a Bachelor's degree in Systems at UNLP. <br />
+Software Developer from Argentina 🇦🇷. <br />
+Junior Fullstack developer.
 
 [![Linkedin](https://img.shields.io/badge/-NicoHermida-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nico-hermida/)
 [![Gmail](https://img.shields.io/badge/-hermida.nicolas101@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hermida.nicolas101@gmail.com)
