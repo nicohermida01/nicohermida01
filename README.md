@@ -12,11 +12,11 @@ Junior Fullstack developer.
 
 ```js
 const myTechStack = {
-  languages: [Python, Javascript, TypeScript, Java, Go, Kotlin],
-  web: [HTML, CSS, Node, React, Next, Nest, Express],
+  languages: [Python, Javascript, TypeScript, Java, Go, Kotlin, C#],
+  web: [HTML, CSS, Node.js, React, Next.js, Nest, Express, Astro],
   database: [MongoDB, MySQL],
-  devOps: [Git, GitHub Actions],
-  tools: [Visual Studio Code, Eclipse, Android Studio],
+  devOps: [Git, GitHub Actions, AWS, Docker],
+  tools: [Visual Studio Code, Eclipse, Android Studio, Unity],
   design: [Figma, Illustrator, Photoshop]
 }
 ```
