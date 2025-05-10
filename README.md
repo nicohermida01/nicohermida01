@@ -1,5 +1,5 @@
-### Hi there 👋
-I'm **Nico Hermida**, pursuing a Bachelor's degree in Systems at UNLP. <br />
+# Hi there 👋 I'm **Nico Hermida**
+Computer Science student at UNLP. <br />
 Software Developer from Argentina 🇦🇷. <br />
 Junior Fullstack developer.
 ![visitors](https://komarev.com/ghpvc/?username=nicohermida01&style=flat)
