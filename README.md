@@ -11,14 +11,14 @@ Junior Fullstack developer.
 ## Tech stack
 
 ```js
-const myTechStack = {
-  languages: [Python, Javascript, TypeScript, Java, Go, Kotlin, C#],
-  web: [HTML, CSS, Node.js, React, Next.js, Nest, Express, Astro],
-  database: [MongoDB, MySQL],
-  devOps: [Git, GitHub Actions, AWS, Docker],
-  tools: [Visual Studio Code, Eclipse, Android Studio, Unity],
-  design: [Figma, Illustrator, Photoshop]
-}
+const frontend = [HTML, CSS, JavaScript, TypeScript, React, Next.js, Astro, TailwindCSS]
+const backend = [Django, Node.js, Nest, Express.js, Go, PHP]
+const database = [MySQL, MongoDB]
+const devOps = [Git, Github Actions, AWS, Docker]
+const design = [Figma]
+const gameDevelopment = [Unity]
+const mobileDevelopment = [Android Studio, Kotlin, React Native]
+const others = [Python, Java, Pascal, Bash]
 ```
 
 <br />
