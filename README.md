@@ -25,10 +25,8 @@ const others = [Python, Java, Pascal, Bash]
 
 <br />
 
-<div style="display:flex;align-items:center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=nicohermida01&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicohermida01&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" />
-</div>
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=nicohermida01&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicohermida01&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" />
 
 <!--
 **nicohermida01/nicohermida01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
