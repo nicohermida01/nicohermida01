@@ -1,7 +1,7 @@
 # Hi there 👋 I'm **Nico Hermida**
-Computer Science student at UNLP. <br />
-Software Developer from Argentina 🇦🇷. <br />
-Junior Fullstack developer. <br />
+- Computer Science student at UNLP. 
+- Software Developer from Argentina 🇦🇷. 
+- Junior Fullstack developer. 
 
 ## 🔗 Contact
 > Open to work!
