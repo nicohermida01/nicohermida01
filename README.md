@@ -8,7 +8,7 @@ Junior Fullstack developer.
 [![Portfolio](https://img.shields.io/badge/-nicohermida.com-black)](https://nicohermida.com/)
 ![visitors](https://komarev.com/ghpvc/?username=nicohermida01&style=flat)
 
-## Tech stack
+## ⚙️ Tech stack
 
 ```js
 const frontend = [HTML, CSS, JavaScript, TypeScript, React, Next.js, Astro, TailwindCSS]
@@ -22,6 +22,11 @@ const others = [Python, Java, Pascal, Bash]
 ```
 
 <br />
+
+<div style='width: '100%';display:flex;align-items: center'>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=nicohermida01&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicohermida01&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" />
+</div>
 
 <a href="https://github.com/nicohermida01">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=nicohermida01&show_icons=true&theme=tokyonight&hide_border=true" />
