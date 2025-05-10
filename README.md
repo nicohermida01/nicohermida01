@@ -1,7 +1,8 @@
 # Hi there 👋 I'm **Nico Hermida**
 Computer Science student at UNLP. <br />
 Software Developer from Argentina 🇦🇷. <br />
-Junior Fullstack developer.
+Junior Fullstack developer. <br />
+<br />
 ![visitors](https://komarev.com/ghpvc/?username=nicohermida01&style=flat)
 
 ## 🔗 Contact
